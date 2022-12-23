@@ -1,0 +1,244 @@
+.rectangle-icon7,
+.vector-icon19 {
+  position: absolute;
+  height: 61%;
+  width: 31.62%;
+  top: 38.94%;
+  right: 68.38%;
+  bottom: 0.07%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-icon7 {
+  height: 31.31%;
+  width: 16.3%;
+  top: 20%;
+  right: 79.22%;
+  bottom: 48.69%;
+  left: 4.48%;
+  object-fit: cover;
+  display: none;
+}
+.cta10,
+.cta11,
+.cta9 {
+  position: absolute;
+  top: 60.81%;
+}
+.cta9 {
+  height: 3.94%;
+  width: 11.15%;
+  right: 56.61%;
+  bottom: 35.25%;
+  left: 32.24%;
+  opacity: 0.8;
+}
+.cta10,
+.cta11 {
+  height: 3.98%;
+  width: 6.72%;
+  bottom: 35.21%;
+}
+.cta10 {
+  right: 46.61%;
+  left: 46.67%;
+  opacity: 0.8;
+}
+.cta11 {
+  right: 36.61%;
+  left: 56.67%;
+}
+.benpos-master-report1 {
+  position: absolute;
+  height: 6.67%;
+  width: 44.38%;
+  top: 13.06%;
+  left: 25.16%;
+  font-size: var(--text-xl-medium-size);
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+  -webkit-text-stroke: 1px #000;
+}
+.companys-name6,
+.name {
+  line-height: 28px;
+  display: inline-block;
+}
+.companys-name6 {
+  position: absolute;
+  height: 33.33%;
+  width: 100%;
+  top: 1.19%;
+  left: 0;
+}
+.name {
+  position: relative;
+}
+.frame4,
+.ob-formscompanys-name {
+  position: absolute;
+  overflow: hidden;
+}
+.frame4 {
+  width: 100%;
+  top: 28px;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--white2);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  display: none;
+  flex-direction: column;
+  padding: var(--padding-xs) var(--padding-md);
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--body-medium-size);
+  color: var(--color-gray-700);
+}
+.ob-formscompanys-name {
+  height: 8.89%;
+  width: 78.54%;
+  top: 36.77%;
+  right: 19.38%;
+  bottom: 54.34%;
+  left: 2.08%;
+}
+.frame5 {
+  position: absolute;
+  width: 100%;
+  top: 28px;
+  right: 0;
+  left: 0;
+}
+.ob-formsaddress4 {
+  position: absolute;
+  height: 7.78%;
+  width: 47.66%;
+  top: 45.56%;
+  right: 26.82%;
+  bottom: 46.67%;
+  left: 25.52%;
+  overflow: hidden;
+  text-align: left;
+}
+.date-picker6,
+.rectangle-icon8 {
+  position: absolute;
+  top: 162px;
+  left: 1347px;
+  width: 700px;
+  height: 1000px;
+}
+.date-picker6 {
+  height: 4.44%;
+  width: 11.46%;
+  top: 36.16%;
+  right: 41.88%;
+  bottom: 59.39%;
+  left: 46.67%;
+}
+.graph4 {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1920px;
+  height: 990px;
+  overflow: hidden;
+}
+.stock-1-icon5 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  width: 87px;
+  height: 87px;
+  object-fit: cover;
+}
+.stoxx5 {
+  position: absolute;
+  top: 28px;
+  left: 163px;
+  letter-spacing: 0.06em;
+  line-height: 30px;
+  display: inline-block;
+}
+.frame-div26 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 375px;
+  height: 87px;
+  overflow: hidden;
+}
+.button6 {
+  flex: 1;
+  cursor: pointer;
+}
+.buttons5,
+.right7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttons5 {
+  width: 151px;
+  flex-shrink: 0;
+}
+.right7 {
+  position: absolute;
+  top: calc(50% - 22px);
+  right: 71px;
+}
+.help-dropdown6 {
+  position: absolute;
+  top: 16px;
+  left: 1191px;
+  opacity: 0.7;
+}
+.file-dropdown5,
+.report-dropdown5,
+.upload-dropdown5 {
+  position: absolute;
+  top: 16px;
+  left: 1015px;
+  opacity: 0.7;
+}
+.file-dropdown5,
+.upload-dropdown5 {
+  left: 839px;
+  mix-blend-mode: normal;
+}
+.file-dropdown5 {
+  left: 663px;
+}
+.navbar5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white2);
+  width: 1920px;
+  height: 90px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--primary);
+  font-family: var(--font-josefin-sans);
+}
+.benpos-master-report {
+  position: relative;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--title-medium-size);
+  color: var(--color-black);
+  font-family: var(--display-sm-semibold);
+}

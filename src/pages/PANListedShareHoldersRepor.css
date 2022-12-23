@@ -1,0 +1,276 @@
+.rectangle-icon1,
+.vector-icon16 {
+  position: absolute;
+  height: 61%;
+  width: 31.62%;
+  top: 38.94%;
+  right: 68.38%;
+  bottom: 0.07%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-icon1 {
+  height: 31.31%;
+  width: 16.3%;
+  top: 20%;
+  right: 79.22%;
+  bottom: 48.69%;
+  left: 4.48%;
+  object-fit: cover;
+  display: none;
+}
+.cta,
+.cta1,
+.cta2 {
+  position: absolute;
+  top: 60.81%;
+}
+.cta {
+  height: 3.94%;
+  width: 11.15%;
+  right: 56.61%;
+  bottom: 35.25%;
+  left: 32.24%;
+  opacity: 0.8;
+}
+.cta1,
+.cta2 {
+  height: 3.98%;
+  width: 6.72%;
+  bottom: 35.21%;
+}
+.cta1 {
+  right: 46.61%;
+  left: 46.67%;
+  opacity: 0.8;
+}
+.cta2 {
+  right: 36.61%;
+  left: 56.67%;
+}
+.pan-listed-share-holders {
+  position: absolute;
+  height: 6.67%;
+  width: 44.38%;
+  top: 13.06%;
+  left: 25.16%;
+  font-size: var(--text-xl-medium-size);
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+  -webkit-text-stroke: 1px #000;
+}
+.companys-name,
+.companys-name1 {
+  position: absolute;
+  height: 2.96%;
+  width: 78.54%;
+  top: 36.36%;
+  left: -12.66%;
+  line-height: 28px;
+  display: inline-block;
+}
+.companys-name1 {
+  left: 13.23%;
+}
+.address,
+.frame,
+.ob-formsaddress {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.address {
+  height: 33.33%;
+  top: 1.19%;
+  line-height: 28px;
+  display: inline-block;
+}
+.frame,
+.ob-formsaddress {
+  top: 28px;
+  right: 0;
+}
+.ob-formsaddress {
+  height: 7.78%;
+  width: 30.63%;
+  top: 50%;
+  right: 37.14%;
+  bottom: 42.22%;
+  left: 32.24%;
+  overflow: hidden;
+  text-align: left;
+}
+.rectangle-div8 {
+  position: absolute;
+  top: 25px;
+  left: 1667px;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(139, 158, 214, 0.9),
+    rgba(136, 154, 206, 0)
+  );
+  filter: blur(4px);
+  width: 216px;
+  height: 104px;
+  opacity: 0.5;
+}
+.date-picker,
+.date-picker1,
+.rectangle-icon2 {
+  position: absolute;
+  height: 4.44%;
+  width: 11.46%;
+  top: 36.16%;
+  right: 30.47%;
+  bottom: 59.39%;
+  left: 58.07%;
+}
+.date-picker1,
+.rectangle-icon2 {
+  top: 35.66%;
+  right: 54.84%;
+  bottom: 59.9%;
+  left: 33.7%;
+}
+.rectangle-icon2 {
+  height: 101.01%;
+  width: 36.46%;
+  top: 16.36%;
+  right: -6.61%;
+  bottom: -17.37%;
+  left: 70.16%;
+}
+.all-promoter,
+.graph1 {
+  position: absolute;
+  left: 0;
+}
+.graph1 {
+  top: 90px;
+  background-color: var(--color-gray-200);
+  width: 1920px;
+  height: 990px;
+  overflow: hidden;
+  text-align: center;
+}
+.all-promoter {
+  height: 6.45%;
+  width: 63.12%;
+  top: 0;
+  display: inline-block;
+}
+.forms-radio-with-label,
+.forms-radio-with-label1 {
+  position: absolute;
+  height: 9.68%;
+  width: 100%;
+  top: 15.89%;
+  right: 0;
+  bottom: 74.44%;
+  left: 0;
+}
+.forms-radio-with-label1 {
+  top: 35%;
+  bottom: 55.33%;
+}
+.checkbox {
+  position: absolute;
+  top: 122px;
+  left: 1698px;
+  width: 197px;
+  height: 159px;
+  font-size: var(--secondary-medium-size);
+}
+.stock-1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  width: 87px;
+  height: 87px;
+  object-fit: cover;
+}
+.stoxx2 {
+  position: absolute;
+  top: 28px;
+  left: 163px;
+  letter-spacing: 0.06em;
+  line-height: 30px;
+  display: inline-block;
+}
+.frame-div23 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 375px;
+  height: 87px;
+  overflow: hidden;
+}
+.button3 {
+  flex: 1;
+  cursor: pointer;
+}
+.buttons2,
+.right4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttons2 {
+  width: 151px;
+  flex-shrink: 0;
+}
+.right4 {
+  position: absolute;
+  top: calc(50% - 22px);
+  right: 71px;
+}
+.help-dropdown3 {
+  position: absolute;
+  top: 16px;
+  left: 1191px;
+  opacity: 0.7;
+}
+.file-dropdown2,
+.report-dropdown2,
+.upload-dropdown2 {
+  position: absolute;
+  top: 16px;
+  left: 1015px;
+  opacity: 0.7;
+}
+.file-dropdown2,
+.upload-dropdown2 {
+  left: 839px;
+  mix-blend-mode: normal;
+}
+.file-dropdown2 {
+  left: 663px;
+}
+.navbar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white2);
+  width: 1920px;
+  height: 90px;
+  overflow: hidden;
+  font-size: var(--font-size-4xl);
+  color: var(--primary);
+  font-family: var(--font-josefin-sans);
+}
+.pan-listed-share-holders-repor {
+  position: relative;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--title-medium-size);
+  color: var(--color-black);
+  font-family: var(--display-sm-semibold);
+}

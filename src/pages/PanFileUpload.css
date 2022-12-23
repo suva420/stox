@@ -1,0 +1,253 @@
+.frame-icon2,
+.vector-icon21 {
+  position: absolute;
+  height: 61%;
+  width: 31.62%;
+  top: 38.94%;
+  right: 68.38%;
+  bottom: 0.07%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-icon2 {
+  height: 95.76%;
+  width: 35.57%;
+  top: 10%;
+  right: -6.61%;
+  bottom: -5.76%;
+  left: 71.04%;
+}
+.cta15,
+.cta16 {
+  position: absolute;
+  height: 3.98%;
+  width: 6.72%;
+}
+.cta15 {
+  top: 87.07%;
+  right: 53.91%;
+  bottom: 8.95%;
+  left: 39.38%;
+  opacity: 0.8;
+}
+.cta16 {
+  top: 87.47%;
+  right: 43.28%;
+  bottom: 8.54%;
+  left: 50%;
+}
+.pan-file-updation {
+  position: absolute;
+  height: 6.67%;
+  width: 44.38%;
+  top: 13.06%;
+  left: 25.16%;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+  -webkit-text-stroke: 1px #000;
+}
+.icon2 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.back1 {
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--neutral-200);
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xs);
+  align-items: center;
+  justify-content: center;
+}
+.title1 {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.top1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.icon3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.paragraph1 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+}
+.container3,
+.content3,
+.cta17 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cta17 {
+  border-radius: var(--br-2xs);
+  background-color: var(--success-green-700);
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-3xs) var(--padding-3xs);
+  box-sizing: border-box;
+}
+.container3,
+.content3 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.content3 {
+  gap: var(--gap-xs);
+}
+.container3 {
+  flex: 1;
+  border-radius: var(--br-2xs);
+  background-color: var(--white2);
+  border: 1px dashed var(--neutral-200);
+  box-sizing: border-box;
+  padding: var(--padding-xl);
+  text-align: center;
+  font-size: var(--body-medium-size);
+}
+.graph6,
+.upload1 {
+  position: absolute;
+  background-color: var(--color-gray-200);
+}
+.upload1 {
+  height: 26.16%;
+  width: 34.58%;
+  top: 34.85%;
+  right: 33.8%;
+  bottom: 38.99%;
+  left: 31.61%;
+  border-radius: var(--br-2xs);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-lg);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+  text-align: left;
+  font-size: var(--title-medium-size);
+  color: var(--neutral-800);
+  font-family: var(--font-manrope);
+}
+.graph6 {
+  top: 90px;
+  left: 0;
+  width: 1920px;
+  height: 990px;
+  overflow: hidden;
+}
+.stock-1-icon7 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  width: 87px;
+  height: 87px;
+  object-fit: cover;
+}
+.stoxx7 {
+  position: absolute;
+  top: 28px;
+  left: 163px;
+  letter-spacing: 0.06em;
+  line-height: 30px;
+  display: inline-block;
+}
+.frame-div28 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 375px;
+  height: 87px;
+  overflow: hidden;
+}
+.button8 {
+  flex: 1;
+  cursor: pointer;
+}
+.buttons7,
+.right9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttons7 {
+  width: 151px;
+  flex-shrink: 0;
+}
+.right9 {
+  position: absolute;
+  top: calc(50% - 22px);
+  right: 71px;
+}
+.help-dropdown8 {
+  position: absolute;
+  top: 16px;
+  left: 1191px;
+  opacity: 0.7;
+}
+.file-dropdown7,
+.report-dropdown7,
+.upload-dropdown7 {
+  position: absolute;
+  top: 16px;
+  left: 1015px;
+  opacity: 0.7;
+}
+.file-dropdown7,
+.upload-dropdown7 {
+  left: 839px;
+  mix-blend-mode: normal;
+}
+.file-dropdown7 {
+  left: 663px;
+}
+.navbar7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white2);
+  width: 1920px;
+  height: 90px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--primary);
+  font-family: var(--font-josefin-sans);
+}
+.pan-file-upload {
+  position: relative;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--text-xl-medium-size);
+  color: var(--color-black);
+  font-family: var(--display-sm-semibold);
+}

@@ -1,0 +1,122 @@
+.rectangle-icon9,
+.vectors-icon {
+  position: absolute;
+  top: 0;
+  left: 234px;
+  width: 814px;
+  height: 681px;
+}
+.vectors-icon {
+  top: 609px;
+  left: 0;
+  width: 1280px;
+  height: 111px;
+}
+.light-mode-dark-mode {
+  position: absolute;
+  top: 630px;
+  left: 32px;
+  width: 78px;
+  height: 78px;
+}
+.forgot-password {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 165px;
+  font-size: var(--body-medium-size);
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.rectangle-formcontrollabel,
+.section-forgot {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.section-forgot {
+  top: 320px;
+  left: 7px;
+  width: 293px;
+  height: 17px;
+}
+.login-btn {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  cursor: pointer;
+}
+.password1,
+.username {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 252px;
+  left: 4px;
+}
+.username {
+  top: 175px;
+}
+.sign-in,
+.sign-in-and-start-managing-you {
+  position: absolute;
+  font-family: var(--font-lexend-deca);
+  color: var(--color-teal-300);
+  text-align: center;
+  display: inline-block;
+}
+.sign-in-and-start-managing-you {
+  top: 119px;
+  left: 6px;
+  font-size: var(--title-medium-size);
+}
+.sign-in {
+  top: 0;
+  left: 48px;
+  font-size: 64px;
+}
+.form,
+.login-as-admin {
+  position: absolute;
+  top: 70px;
+  left: 486px;
+  width: 304px;
+  height: 477px;
+}
+.login-as-admin {
+  cursor: pointer;
+  text-decoration: none;
+  top: 435px;
+  left: 500px;
+  line-height: 20px;
+  text-transform: capitalize;
+  color: inherit;
+  display: inline-block;
+  width: 286px;
+  height: 36px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.dashboard-login-light-theme1 {
+  position: absolute;
+  top: 160px;
+  left: 320px;
+  background-color: #e9f5f5;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1280px;
+  height: 720px;
+  overflow: hidden;
+}
+.user-sign-in {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--title-medium-size);
+  color: #0f0e0e;
+  font-family: var(--font-lexend-deca);
+}
